@@ -251,7 +251,7 @@ main {
 
 .container-areas {
     min-width: 40vw;
-    height: 100px;
+    min-height: 100px;
     padding: 20px;
     border: 1px solid rgba(0, 0, 0, 0.11);
     border-radius: 10px;
@@ -260,6 +260,7 @@ main {
 
 .container-areas h4 {
     margin-bottom: 20px;
+    color: rgb(85, 85, 85);
 }
 
 .container-areas p, span {
@@ -294,7 +295,7 @@ main {
 }
 
 
-@media (max-width: 850px) {
+@media (max-width: 865px) {
 
     header {
         justify-content: space-between;
@@ -332,7 +333,7 @@ main {
     }
 
     .container-vagas img {
-        width: 80vw; 
+        width: 85vw; 
     }
 
 }
@@ -341,6 +342,6 @@ main {
 
     .stats-list {
         text-align: center;  
-    }
-
+    }  
 }
+
