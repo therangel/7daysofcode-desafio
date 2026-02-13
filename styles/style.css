@@ -343,11 +343,11 @@ main {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    gap: 20px;
+    gap: 30px;
 
     border-top: 1px solid rgba(0, 0, 0, 0.1);
     margin-top: 40px;
-    padding: 20px;
+    padding: 30px 20px;
 }
 
 .newsletter-form {
@@ -363,7 +363,7 @@ main {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    gap: 10px;
+    gap: 20px;
     text-align: center;
 }
 
