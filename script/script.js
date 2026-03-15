@@ -1,11 +1,7 @@
 const  burgerIco = document.querySelector('.burger-ico')
-
 const menuNav = document.querySelector('.menu-nav')
-
 const menuLinks = document.getElementById('menu-links')
-
 const site = document.querySelector('main') 
-
 
 
 burgerIco.addEventListener('click', () => {
